@@ -57,7 +57,7 @@ Voilà, All Set.
 ## Project Design
 
  ### Class Diagram
- <img src="static/images/cd.png" alt="">
+ <img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/11a3f947-a635-4892-bcf0-15739e225202" alt="">
  
  ### Some of the Project Features
  
