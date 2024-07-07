@@ -209,7 +209,7 @@ https://user-images.githubusercontent.com/79904688/149457045-fe4ca072-cf7c-45e1-
 
 ## Contact
 
-HARSHITA BALI - [E-MAIL](harshita13052005@gmail.com) 
+HARSHITA BALI - [harshita13052005@gmail.com] 
 
 Project Link: [https://github.com/Harshita-bali/rabies-vaccine-locator](https://github.com/Harshita-bali/rabies-vaccine-locator)
 
