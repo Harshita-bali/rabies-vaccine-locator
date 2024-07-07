@@ -1,4 +1,7 @@
-![Uploading image.png…]()
+![image](https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/afb0bff4-5e4f-41ee-8962-429c8745a39d)
+
+
+
 
 <div id="top"></div>
 <div align="center">
@@ -23,7 +26,7 @@
 </div>
 
 ## About The Project
-<img src="Uploading image.png">
+<img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/afb0bff4-5e4f-41ee-8962-429c8745a39d">
 <div align="center" id="about-the-project">
 <img src="static/images/_main.jpg" alt="main">
  </div>
