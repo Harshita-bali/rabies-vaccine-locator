@@ -1,8 +1,3 @@
-![image](https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/afb0bff4-5e4f-41ee-8962-429c8745a39d)
-
-
-
-
 <div id="top"></div>
 <div align="center">
   <a href="https://github.com/Harshita-bali/rabies-vaccine-locator">
