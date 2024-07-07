@@ -1,4 +1,4 @@
-<div id="top"></div>
+![Screenshot 2024-07-07 174920](https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/f03bf6a3-e8b2-4302-ad51-d57f87082c0e)<div id="top"></div>
 <div align="center">
   <a href="https://github.com/Harshita-bali/rabies-vaccine-locator">
     <img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/94704b8e-3fb5-4475-9ccb-21e6ea844f5d" alt="Logo" width="80" height="80">
@@ -196,16 +196,16 @@ https://user-images.githubusercontent.com/79904688/149457045-fe4ca072-cf7c-45e1-
   <img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/4e0a6976-fc97-44e0-8461-eb563082990f" alt="">
   <img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/0ba7beeb-3aa5-44b1-a0f7-a436982f1783" alt="">
 * AVAILABLE SLOTS AND ADDING REVIEW
-  <img src="static/output/6a.jpg" alt="">
-  <img src="static/output/6b.jpg" alt="">
-  <img src="static/output/6c.jpg" alt="">
+  <img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/b7c52d18-8557-4463-bd55-2bad005bcf40" alt="">
+  <img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/d316a205-02ee-4021-a7a7-f8693525c458="">
+  <img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/8a6452f0-5c1a-4bb7-9f8a-8a8cd2216967" alt="">
 * BOOKMARKING THE CENTER FOR FUTURE REFERENCE
-  <img src="static/output/7.jpg" alt="">
+ <img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/29a576d1-9f2a-43b2-b66d-b9b4cb516d6b" alt="">
 * SELECTION THROUGH MAP
-  <img src="static/output/8a.jpg" alt="">
-  <img src="static/output/8b.jpg" alt="">
-  <img src="static/output/8c.jpg" alt="">
-  <img src="static/output/8d.jpg" alt="">
+  <img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/01f0bffa-8836-4697-a941-b2ae1bdc51da alt="">
+  <img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/0dc2737b-fde6-4c68-a2a7-2911520e0936" alt="">
+  <img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/817e6218-4404-4a80-bb72-7f7092e65f87" alt="">
+  <img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/68a48c21-c081-4f07-b43d-f1435afd88c9" alt="">
 </div>
 <p align="right">(<a href="#top">↑</a>)</p>
 
