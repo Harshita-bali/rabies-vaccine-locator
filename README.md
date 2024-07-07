@@ -1,4 +1,3 @@
-![Screenshot 2024-07-07 174920](https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/f03bf6a3-e8b2-4302-ad51-d57f87082c0e)<div id="top"></div>
 <div align="center">
   <a href="https://github.com/Harshita-bali/rabies-vaccine-locator">
     <img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/94704b8e-3fb5-4475-9ccb-21e6ea844f5d" alt="Logo" width="80" height="80">
