@@ -178,7 +178,7 @@ https://user-images.githubusercontent.com/79904688/149457045-fe4ca072-cf7c-45e1-
 
 ## Result and Visualisation of the project
 
-<div align="center
+<div align="center">
   * WELCOME SCREEN
  <img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/e0ad600d-c88e-4cf7-a427-e9211fd2a04e="">
 * LOGIN SCREEN
