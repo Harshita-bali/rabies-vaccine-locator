@@ -1,7 +1,7 @@
 <div id="top"></div>
 <div align="center">
   <a href="https://github.com/Harshita-bali/rabies-vaccine-locator">
-    <img src="static/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/94704b8e-3fb5-4475-9ccb-21e6ea844f5d" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">RABIES VACCINATION CENTER LOCATOR</h3>
