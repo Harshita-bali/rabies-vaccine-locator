@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 <div id="top"></div>
 <div align="center">
   <a href="https://github.com/Harshita-bali/rabies-vaccine-locator">
@@ -21,6 +23,7 @@
 </div>
 
 ## About The Project
+<img src="Uploading image.png">
 <div align="center" id="about-the-project">
 <img src="static/images/_main.jpg" alt="main">
  </div>
