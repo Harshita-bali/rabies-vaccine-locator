@@ -18,7 +18,7 @@
     <a href="https://github.com/Harshita-bali/rabies-vaccine-locator">Request Feature</a>
   </p>
 </div>
-ss
+
 ## About The Project
 
 <div align="center" id="about-the-project">
@@ -33,7 +33,6 @@ Rabies is a viral disease that affects the central nervous system and is primari
 
 ### Data Set Used
 * The data set used in this project has been retrieved from the following sites:
-- https://www.cowin.gov.in/
 - https://www.google.com/maps
 The initial Review data set is self-written and is random irrespective of the vaccination center.
 
@@ -209,7 +208,7 @@ https://user-images.githubusercontent.com/79904688/149457045-fe4ca072-cf7c-45e1-
 
 ## Contact
 
-HARSHITA BALI - [harshita13052005@gmail.com] 
+HARSHITA BALI - [harshita13052005@gmail.com]
 
 Project Link: [https://github.com/Harshita-bali/rabies-vaccine-locator](https://github.com/Harshita-bali/rabies-vaccine-locator)
 
