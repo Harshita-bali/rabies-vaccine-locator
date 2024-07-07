@@ -21,7 +21,7 @@
 </div>
 
 ## About The Project
-<img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/afb0bff4-5e4f-41ee-8962-429c8745a39d">
+<img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/8bf4d768-37b9-47da-bb05-bed5dac9158d">
 <div align="center" id="about-the-project">
 <img src="static/images/_main.jpg" alt="main">
  </div>
