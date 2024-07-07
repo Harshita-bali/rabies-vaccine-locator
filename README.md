@@ -177,6 +177,8 @@ https://user-images.githubusercontent.com/79904688/149457045-fe4ca072-cf7c-45e1-
 <p align="right">(<a href="#top">↑</a>)</p>
 
 ## Result and Visualisation of the project
+
+
 <div align="center">
 * WELCOME SCREEN
  <img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/e0ad600d-c88e-4cf7-a427-e9211fd2a04e="">
@@ -187,9 +189,9 @@ https://user-images.githubusercontent.com/79904688/149457045-fe4ca072-cf7c-45e1-
   <img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/e47c3bfc-bf77-4a26-bef2-790f07c98499" alt="">
 * LOCATING CENTER BY PIN (after signing in)
   <img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/36708a31-ba09-4636-80ae-2be817fa94ac" alt="">
-  <img src="static/output/4b.jpg" alt="">
+  <img src="Screenshot 2024-07-07 174951](https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/4276ffa8-5c31-4046-85a2-3f0d25bf820b" alt="">
 * SELECTING FILTERS TO FIND REQUIRED VACCINE
-  <img src="static/output/5a.jpg" alt="">
+  <img src="https://github.com/Harshita-bali/rabies-vaccine-locator/assets/118011035/e75d0610-38da-486c-bf72-d5f81f1532de" alt="">
   <img src="static/output/5b.jpg" alt="">
 * AVAILABLE SLOTS AND ADDING REVIEW
   <img src="static/output/6a.jpg" alt="">
